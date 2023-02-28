@@ -21,6 +21,13 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
    $ . venv/bin/activate
    ```
 
+4b. For Powershell
+
+   ```PS
+   PS python -m venv venv
+   PS .\venv\Scripts\Activate.ps1
+   ```
+
 5. Install the requirements
 
    ```bash
